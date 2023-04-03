@@ -1,0 +1,179 @@
+@media (max-width: 1920px){
+    .button-trabalhos {
+        right: 240px;
+    }
+
+    .img-main {
+        left: 40.2%;
+    }
+}
+
+
+
+@media (max-width: 1366px){
+    h1{
+        font-size: 60px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 280px;
+    }
+
+    p{
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 150px;
+        font-size: 20px;
+    }
+
+    .bola02 {
+        top: 1rem;
+        left: 76%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-sobre {
+        top: 1rem;
+        left: 55.6rem;
+
+        font-size: 20px;
+    }
+
+    .star-nav {
+        left: 97%;
+    }
+
+    .gitHub-button {
+        left: 13rem;
+        top: 21.4rem;
+    
+        
+    }
+    
+    .email-button {
+        left: 20rem;
+        top: 21.4rem;
+       
+        font-size: 16px;
+    }
+    
+    .cv-button {
+        left: 27rem;
+        top: 21.4rem;
+        
+        font-size: 16px;
+    }
+
+    .linha-main {
+        left: 8%;
+        top: 41rem;
+    }
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 16%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 37%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 28px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 640px;
+        height: 480px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 520px;
+        left: 9%;
+        top: 36.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.5%;
+        left: 4.8%;
+
+        font-size: 22px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 600px;
+        height: 390px;
+        left: 50%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 500px;
+        height: 40px;
+        left: 52%;
+        top: 36.4%;
+    
+        font-size: 14px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 66%;
+    
+        
+        font-size: 30px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 360px;
+        top: 84rem;
+    
+    }
+}
