@@ -1,0 +1,3246 @@
+@media (max-width: 1920px){
+    .button-trabalhos {
+        right: 240px;
+    }
+
+    .img-main {
+        left: 40.2%;
+    }
+
+    .card01-ft {
+        width: 920px;
+        height: 620px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 740px;
+        left: 9%;
+        top: 39.2%;
+
+        font-size: 19px;
+        line-height: 22px;
+    
+    }
+
+    .em-breve {
+        top: 29%;
+        left: 5.8%;
+
+        font-size: 26px;
+
+    }
+
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 30.1%;
+        left: 68%;
+    
+        
+        font-size: 30px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 340px;
+        top: 84rem;
+    
+    }
+
+    .card02-ft {
+        width: 800px;
+        height: 520px;
+        left: 51%;
+        top: 29.6%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 720px;
+        height: 40px;
+        left: 52.2%;
+        top: 39.8%;
+    
+        font-size: 19px;
+        line-height: 20px;
+    
+    }
+}
+
+@media (max-width: 1600px) {
+    body {
+        position: relative;
+        width: 100%;
+        height: 4320px;
+        background: #000000;
+        border-radius: 0px 0px 150px 150px;
+    
+        padding: 0%;
+    }
+    
+    .linha-nav {
+        position: absolute;
+        width: 100%;
+        left: 0px;
+        top: 3.3rem;
+    
+        border: 1px solid #46494C;
+    }
+    
+    .inicio {
+        position: relative;
+        width: 100%;
+        height: 1150px;
+    
+        background: #f3f0cd;
+        border-radius: 0px 0px 10px 10px;
+    }
+    
+    h1 {
+        position: absolute;
+        left: 13rem;
+        right: 79.53%;
+        top: 15rem;
+        bottom: 71.24%;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 80px;
+        line-height: 0px;
+        color: #46494C;
+    }
+    
+    .mao {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        left: 300px;
+        top: 13rem;
+    }
+    
+    p {
+        position: absolute;
+        max-width: 1330px;
+        height: 130px;
+        left: 13rem;
+        top: 17rem;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 38px;
+        color: #46494C;
+    }
+    
+    .estrela001 {
+        position: absolute;
+        width: 52px;
+        height: 52px;
+        left: 44.5rem;
+        top: 19.2rem;
+    
+    }
+    
+    .fundo-nav {
+        position: absolute;
+        width: 96%;
+        height: 42px;
+        top: 0.3rem;
+        left: 3%;
+    
+        background: #0E0E13;
+        border-radius: 26px;
+    }
+    
+    .star-nav {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 17px;
+        height: 21px;
+        top: -0.1rem;
+        left: 96%;
+    }
+    
+    .button-contato {
+        position: absolute;
+        width: 103.28px;
+        height: 20px;
+        top: 1rem;
+        left: 90%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 20px;
+        background: none;
+        color: #f3f0cd;
+    
+        border: none;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    .bola {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 88%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-trabalhos {
+        position: absolute;
+        width: 139px;
+        height: 20px;
+        top: 1rem;
+        right: 180px;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 20px;
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+        background: none;
+        border: none;
+    
+        color: #f3f0cd;
+        cursor: pointer;
+    }
+    
+    .bola02 {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 78%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-sobre {
+        position: absolute;
+        width: 140.36px;
+        height: 20px;
+        top: 1rem;
+        left: 69%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        border: none;
+        background: none;
+        color: #f3f0cd;
+        cursor: pointer;
+    }
+    
+    .DM {
+        position: absolute;
+        left: 8%;
+        top: 0.6rem;
+        cursor: pointer;
+    }
+    
+    .gitHub-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 13rem;
+        top: 22rem;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 0px;
+        /* or 312% */
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .email-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 20rem;
+        top: 22rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 0px;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .cv-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 27rem;
+        top: 22rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 0px;
+    
+    
+        color: #004375;
+        cursor: pointer;
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+    }
+    
+    .linha-main {
+        position: absolute;
+        width: 84%;
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        left: 6%;
+        top: 41rem;
+    
+        border: 2px solid #242632;
+        border-radius: 100px;
+    }
+    
+    .star-main {
+        position: absolute;
+        width: 119px;
+        height: 100px;
+        left: 46.5%;
+        top: 38.2rem;
+    }
+    
+    .sou-main {
+        position: absolute;
+        width: 60rem;
+        height: 324px;
+        left: 18%;
+        top: 48rem;
+        text-align: center;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 32px;
+        color: #46494C;
+    }
+    
+    .img-main {
+        position: absolute;
+        max-width: 408px;
+        height: 67px;
+        left: 35.8%;
+        top: 59rem;
+    }
+    
+    .trabalhos-main {
+        position: absolute;
+        max-width: 1015.75px;
+        height: 54px;
+        left: 30%;
+        top: 27%;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 54px;
+    
+        text-align: center;
+    
+        color: #FFFFFF;
+    }
+    
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 388px;
+        top: 84rem;
+    
+    }
+    
+    .card01-ft {
+        position: absolute;
+        width: 790px;
+        height: 648px;
+        left: 1%;
+        top: 27%;
+    }
+    
+    .txt-card01 {
+        position: absolute;
+        width: 600px;
+        height: 60px;
+        left: 10%;
+        top: 40%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 24px;
+    
+        display: flex;
+        align-items: center;
+    
+        color: #000000;
+    }
+    
+    .em-breve {
+        position: absolute;
+        width: 82px;
+        height: 37px;
+        top: 29.1%;
+        left: 5.4%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 20px;
+    
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #507759;
+    }
+    
+    .card02-ft {
+        position: absolute;
+        width: 740px;
+        height: 540px;
+        left: 52%;
+        top: 29.5%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 700px;
+        height: 40px;
+        left: 53.5%;
+        top: 40%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 20px;
+    
+        display: flex;
+        align-items: center;
+    
+        color: #000000;
+    }
+    
+    .SuperMario {
+        position: absolute;
+        width: 210px;
+        height: 20px;
+        top: 30%;
+        left: 66%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 28px;
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #507759;
+    
+        -webkit-text-stroke-color: #162E1B;
+        -webkit-text-stroke-width: 0.6px;
+    
+    }
+}
+
+@media (max-width: 1500px) {
+    .linha-nav {
+        position: absolute;
+        width: 100%;
+        left: 0px;
+        top: 3.3rem;
+    
+        border: 1px solid #46494C;
+    }
+    
+    .inicio {
+        position: relative;
+        width: 100%;
+        height: 1150px;
+    
+        background: #f3f0cd;
+        border-radius: 0px 0px 10px 10px;
+    }
+    
+    h1 {
+        position: absolute;
+        left: 13rem;
+        right: 79.53%;
+        top: 15rem;
+        bottom: 71.24%;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 80px;
+        line-height: 0px;
+        color: #46494C;
+    }
+    
+    .mao {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        left: 300px;
+        top: 13rem;
+    }
+    
+    p {
+        position: absolute;
+        max-width: 1330px;
+        height: 130px;
+        left: 13rem;
+        top: 17rem;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 38px;
+        color: #46494C;
+    }
+    
+    .estrela001 {
+        position: absolute;
+        width: 52px;
+        height: 52px;
+        left: 44.5rem;
+        top: 19.2rem;
+    
+    }
+    
+    .fundo-nav {
+        position: absolute;
+        width: 96%;
+        height: 42px;
+        top: 0.3rem;
+        left: 3%;
+    
+        background: #0E0E13;
+        border-radius: 26px;
+    }
+    
+    .star-nav {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 17px;
+        height: 21px;
+        top: -0.1rem;
+        left: 96%;
+    }
+    
+    .button-contato {
+        position: absolute;
+        width: 103.28px;
+        height: 20px;
+        top: 1rem;
+        left: 90%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 20px;
+        background: none;
+        color: #f3f0cd;
+    
+        border: none;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    .bola {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 88%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-trabalhos {
+        position: absolute;
+        width: 139px;
+        height: 20px;
+        top: 1rem;
+        right: 176px;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 20px;
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+        background: none;
+        border: none;
+    
+        color: #f3f0cd;
+        cursor: pointer;
+    }
+    
+    .bola02 {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 76.6%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-sobre {
+        position: absolute;
+        width: 140.36px;
+        height: 20px;
+        top: 1rem;
+        left: 67%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 20px;
+        /* identical to box height, or 83% */
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        border: none;
+        background: none;
+        color: #f3f0cd;
+        cursor: pointer;
+    }
+    
+    .DM {
+        position: absolute;
+        left: 8%;
+        top: 0.6rem;
+        cursor: pointer;
+    }
+    
+    .gitHub-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 13rem;
+        top: 22rem;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 0px;
+        /* or 312% */
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .email-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 20rem;
+        top: 22rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 0px;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .cv-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 27rem;
+        top: 22rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 0px;
+    
+    
+        color: #004375;
+        cursor: pointer;
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+    }
+    
+    .linha-main {
+        position: absolute;
+        width: 84%;
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        left: 8%;
+        top: 41rem;
+    
+        border: 2px solid #242632;
+        border-radius: 100px;
+    }
+    
+    .star-main {
+        position: absolute;
+        width: 119px;
+        height: 100px;
+        left: 46.5%;
+        top: 38.2rem;
+    }
+    
+    .sou-main {
+        position: absolute;
+        width: 60rem;
+        height: 324px;
+        left: 18%;
+        top: 48rem;
+        text-align: center;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 32px;
+        color: #46494C;
+    }
+    
+    .img-main {
+        position: absolute;
+        max-width: 408px;
+        height: 67px;
+        left: 37%;
+        top: 59rem;
+    }
+    
+    .trabalhos-main {
+        position: absolute;
+        max-width: 1015.75px;
+        height: 54px;
+        left: 30%;
+        top: 27%;
+    
+        font-family: 'Noto Sans Bengali';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 54px;
+    
+        text-align: center;
+    
+        color: #FFFFFF;
+    }
+    
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 388px;
+        top: 84rem;
+    
+    }
+    
+    .card01-ft {
+        position: absolute;
+        width: 790px;
+        height: 648px;
+        left: 1%;
+        top: 27%;
+    }
+    
+    .txt-card01 {
+        position: absolute;
+        width: 600px;
+        height: 60px;
+        left: 10%;
+        top: 40%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 24px;
+    
+        display: flex;
+        align-items: center;
+    
+        color: #000000;
+    }
+    
+    .em-breve {
+        position: absolute;
+        width: 82px;
+        height: 37px;
+        top: 29.1%;
+        left: 5.4%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 20px;
+    
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #507759;
+    }
+    
+    .card02-ft {
+        position: absolute;
+        width: 680px;
+        height: 540px;
+        left: 52%;
+        top: 29.5%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 700px;
+        height: 40px;
+        left: 53.5%;
+        top: 40%;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 20px;
+    
+        display: flex;
+        align-items: center;
+    
+        color: #000000;
+    }
+    
+    .SuperMario {
+        position: absolute;
+        width: 210px;
+        height: 20px;
+        top: 30%;
+        left: 66%;
+    
+        font-family: 'Shrikhand';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 28px;
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #507759;
+    
+        -webkit-text-stroke-color: #162E1B;
+        -webkit-text-stroke-width: 0.6px;
+    
+    }
+}
+
+@media (max-width: 1440px){
+    h1{
+        font-size: 60px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 280px;
+    }
+
+    p{
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 160px;
+        font-size: 20px;
+    }
+
+    .bola02 {
+        top: 1rem;
+        left: 76%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-sobre {
+        top: 1rem;
+        left: 59rem;
+
+        font-size: 20px;
+    }
+
+    .star-nav {
+        left: 97%;
+    }
+
+    .gitHub-button {
+        left: 13rem;
+        top: 21.4rem;
+    
+        
+    }
+    
+    .email-button {
+        left: 20rem;
+        top: 21.4rem;
+       
+        font-size: 16px;
+    }
+    
+    .cv-button {
+        left: 27rem;
+        top: 21.4rem;
+        
+        font-size: 16px;
+    }
+
+    .linha-main {
+        left: 8%;
+        top: 41rem;
+    }
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 16%;
+        top: 46rem;
+        text-align: center;
+    
+        font-size: 28px;
+    }
+
+    .img-main {
+        left: 36%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 28px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 660px;
+        height: 480px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 520px;
+        left: 9%;
+        top: 36.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.4%;
+        left: 4.8%;
+
+        font-size: 20px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 600px;
+        height: 400px;
+        left: 50%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 500px;
+        height: 40px;
+        left: 52%;
+        top: 36.4%;
+    
+        font-size: 14px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 66%;
+    
+        
+        font-size: 26px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 340px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1366px){
+    h1{
+        font-size: 60px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 280px;
+    }
+
+    p{
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 150px;
+        font-size: 20px;
+    }
+
+    .bola02 {
+        top: 1rem;
+        left: 76%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-sobre {
+        top: 1rem;
+        left: 55.6rem;
+
+        font-size: 20px;
+    }
+
+    .star-nav {
+        left: 97%;
+    }
+
+    .gitHub-button {
+        left: 13rem;
+        top: 21.4rem;
+    
+        
+    }
+    
+    .email-button {
+        left: 20rem;
+        top: 21.4rem;
+       
+        font-size: 16px;
+    }
+    
+    .cv-button {
+        left: 27rem;
+        top: 21.4rem;
+        
+        font-size: 16px;
+    }
+
+    .linha-main {
+        left: 8%;
+        top: 41rem;
+    }
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 16%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 37%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 28px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 640px;
+        height: 480px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 520px;
+        left: 9%;
+        top: 36.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.5%;
+        left: 4.8%;
+
+        font-size: 22px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 600px;
+        height: 390px;
+        left: 50%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 500px;
+        height: 40px;
+        left: 52%;
+        top: 36.4%;
+    
+        font-size: 14px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 66%;
+    
+        
+        font-size: 30px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 360px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1360px){
+    h1{
+        font-size: 60px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 280px;
+    }
+
+    p{
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 150px;
+        font-size: 20px;
+    }
+
+    .bola02 {
+        top: 1rem;
+        left: 76%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-sobre {
+        top: 1rem;
+        left: 55.6rem;
+
+        font-size: 20px;
+    }
+
+    .star-nav {
+        left: 97%;
+    }
+
+    .gitHub-button {
+        left: 13rem;
+        top: 21.4rem;
+    
+        
+    }
+    
+    .email-button {
+        left: 20rem;
+        top: 21.4rem;
+       
+        font-size: 16px;
+    }
+    
+    .cv-button {
+        left: 27rem;
+        top: 21.4rem;
+        
+        font-size: 16px;
+    }
+
+    .linha-main {
+        left: 8%;
+        top: 41rem;
+    }
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 16%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 37%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 28px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 640px;
+        height: 480px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 520px;
+        left: 9%;
+        top: 36.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.4%;
+        left: 4.8%;
+
+        font-size: 20px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 600px;
+        height: 405px;
+        left: 50%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 500px;
+        height: 40px;
+        left: 52%;
+        top: 36.4%;
+    
+        font-size: 14px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 67%;
+    
+        
+        font-size: 26px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 360px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1340px){
+    h1{
+        font-size: 60px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        left: 280px;
+    }
+
+    p{
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 150px;
+        font-size: 20px;
+    }
+
+    .bola02 {
+        top: 1rem;
+        left: 76%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+    
+    .button-sobre {
+        top: 1rem;
+        left: 54.2rem;
+
+        font-size: 20px;
+    }
+
+    .star-nav {
+        left: 97%;
+    }
+
+    .gitHub-button {
+        left: 13rem;
+        top: 21.4rem;
+    
+        
+    }
+    
+    .email-button {
+        left: 20rem;
+        top: 21.4rem;
+       
+        font-size: 16px;
+    }
+    
+    .cv-button {
+        left: 27rem;
+        top: 21.4rem;
+        
+        font-size: 16px;
+    }
+
+    .linha-main {
+        left: 8%;
+        top: 41rem;
+    }
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 16%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 37%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 28px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 640px;
+        height: 480px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 520px;
+        left: 9%;
+        top: 36.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.4%;
+        left: 4.8%;
+
+        font-size: 20px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 600px;
+        height: 405px;
+        left: 50%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 580px;
+        height: 40px;
+        left: 52%;
+        top: 36.4%;
+    
+        font-size: 14px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 67%;
+    
+        
+        font-size: 26px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 360px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1300px){
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 128px;
+        font-size: 18px;
+    }
+
+    .button-sobre {
+        top: 1rem;
+        left: 53rem;
+
+        font-size: 18px;
+    }
+
+    .button-contato{
+        font-size: 18px;
+    }
+
+    .sou-main {
+        left: 12%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 34%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 620px;
+        height: 430px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 530px;
+        left: 9%;
+        top: 35.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.2%;
+        left: 4.8%;
+
+        font-size: 18px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 530px;
+        height: 352px;
+        left: 52%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 480px;
+        height: 40px;
+        left: 54%;
+        top: 35.4%;
+    
+        font-size: 16px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 68.4%;
+    
+        
+        font-size: 22px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1280px){
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 128px;
+        font-size: 18px;
+    }
+
+    .button-sobre {
+        top: 1rem;
+        left: 52rem;
+
+        font-size: 18px;
+    }
+
+    .button-contato{
+        font-size: 18px;
+    }
+
+    .sou-main {
+        left: 12%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 34%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 620px;
+        height: 430px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 530px;
+        left: 9%;
+        top: 35.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.2%;
+        left: 4.8%;
+
+        font-size: 18px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 530px;
+        height: 352px;
+        left: 52%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 480px;
+        height: 40px;
+        left: 54%;
+        top: 35.4%;
+    
+        font-size: 16px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 68.4%;
+    
+        
+        font-size: 22px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1240px){
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 120px;
+        font-size: 18px;
+    }
+
+    
+    .button-sobre {
+        top: 1rem;
+        left: 50rem;
+
+        font-size: 18px;
+    }
+
+    .button-contato{
+        font-size: 18px;
+    }
+
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 12%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 36%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 570px;
+        height: 430px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 480px;
+        left: 9%;
+        top: 35.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.2%;
+        left: 4.8%;
+
+        font-size: 18px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 520px;
+        height: 352px;
+        left: 52%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 480px;
+        height: 40px;
+        left: 54%;
+        top: 35.4%;
+    
+        font-size: 16px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 68.6%;
+    
+        
+        font-size: 22px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1200px){
+    .estrela001 {
+        width: 40px;
+        height: 40px;
+        left: 36.5rem;
+        top: 18.6rem;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 120px;
+        font-size: 18px;
+    }
+
+    
+    .button-sobre {
+        top: 1rem;
+        left: 48rem;
+
+        font-size: 18px;
+    }
+
+    .button-contato{
+        font-size: 18px;
+    }
+
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 12%;
+        top: 46rem;
+        text-align: center;
+    
+    }
+
+    .img-main {
+        left: 36%;
+        top: 57rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 570px;
+        height: 430px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 480px;
+        left: 9%;
+        top: 35.4%;
+
+        font-size: 14px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.2%;
+        left: 4.8%;
+
+        font-size: 18px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 520px;
+        height: 352px;
+        left: 52%;
+        top: 28.8%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 480px;
+        height: 40px;
+        left: 54%;
+        top: 35.4%;
+    
+        font-size: 16px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 29.1%;
+        left: 68.6%;
+    
+        
+        font-size: 22px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1152px){
+    h1{
+        font-size: 48px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 46px;
+        height: 46px;
+        left: 260px;
+        top: 13rem;
+    }
+
+    p{
+        font-size: 26px;
+        top: 16.4rem;
+        line-height: 26px;
+    }
+    
+    .estrela001 {
+        width: 30px;
+        height: 30px;
+        left: 33.4rem;
+        top: 17.8rem;
+    
+    }
+
+    .gitHub-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 13rem;
+        top: 20rem;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+        /* or 312% */
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .email-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 20rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .cv-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 27rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+    
+        color: #004375;
+        cursor: pointer;
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+    }
+    
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 106px;
+        font-size: 18px;
+    }
+
+    .button-sobre {
+        top: 1rem;
+        left: 46.5rem;
+
+        font-size: 18px;
+    }
+
+    .button-contato{
+        font-size: 18px;
+    }
+
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 12%;
+        top: 46rem;
+        text-align: center;
+        
+        font-size: 24px;
+    }
+
+    .img-main {
+        left: 36%;
+        top: 56rem;
+
+
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 560px;
+        height: 422px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 480px;
+        left: 9%;
+        top: 35.2%;
+
+        font-size: 13px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.2%;
+        left: 4.2%;
+
+        font-size: 18px;
+
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 500px;
+        height: 352px;
+        left: 52%;
+        top: 28.6%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 480px;
+        height: 40px;
+        left: 54%;
+        top: 35.4%;
+    
+        font-size: 13px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 28.9%;
+        left: 68.6%;
+    
+        
+        font-size: 22px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 300px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1024px){
+    h1{
+        font-size: 48px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 46px;
+        height: 46px;
+        left: 260px;
+        top: 13rem;
+    }
+
+    p{
+        font-size: 26px;
+        top: 16.4rem;
+        line-height: 26px;
+    }
+    
+    .estrela001 {
+        width: 30px;
+        height: 30px;
+        left: 33.4rem;
+        top: 17.8rem;
+    
+    }
+
+    .gitHub-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 13rem;
+        top: 20rem;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .email-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 20rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .cv-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 27rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 104px;
+        font-size: 18px;
+    }
+
+    .button-sobre {
+        top: 1rem;
+        left: 38rem;
+
+        font-size: 18px;
+    }
+
+    .bola {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 87%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .bola02 {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 73%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .button-contato{
+        font-size: 18px;
+    }
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 4%;
+        top: 46rem;
+        text-align: center;
+        
+        font-size: 22px;
+    }
+
+    .img-main {
+        left: 31%;
+        top: 56rem;
+    }
+
+    .trabalhos-main {
+        left: 28%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 500px;
+        height: 400px;
+        left: 0%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 410px;
+        left: 8%;
+        top: 34.7%;
+
+        font-size: 13px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.1%;
+        left: 3%;
+
+        font-size: 18px;
+        line-height: 14px;
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 440px;
+        height: 336px;
+        left: 52%;
+        top: 28.6%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 410px;
+        height: 40px;
+        left: 54%;
+        top: 35%;
+    
+        font-size: 13px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 28.9%;
+        left: 68.4%;
+    
+        
+        font-size: 20px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 260px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1100px){
+    h1{
+        font-size: 48px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 46px;
+        height: 46px;
+        left: 260px;
+        top: 13rem;
+    }
+
+    p{
+        font-size: 26px;
+        top: 16.4rem;
+        line-height: 26px;
+    }
+    
+    .estrela001 {
+        width: 30px;
+        height: 30px;
+        left: 33.4rem;
+        top: 17.8rem;
+    
+    }
+
+    .gitHub-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 13rem;
+        top: 20rem;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .email-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 20rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .cv-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 27rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 118px;
+        font-size: 18px;
+    }
+
+    .button-sobre {
+        top: 1rem;
+        left: 41.5rem;
+
+        font-size: 18px;
+    }
+
+    .bola {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 87%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .bola02 {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 73%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .button-contato{
+        font-size: 18px;
+    }
+
+    .star-main {
+        left: 48%;
+    }
+
+    .sou-main {
+        left: 6%;
+        top: 46rem;
+        text-align: center;
+        
+        font-size: 22px;
+    }
+
+    .img-main {
+        left: 31%;
+        top: 56rem;
+    }
+
+    .trabalhos-main {
+        left: 20%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 540px;
+        height: 400px;
+        left: 0%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 450px;
+        left: 8%;
+        top: 34.7%;
+
+        font-size: 13px;
+        line-height: 16px;
+    
+    }
+    
+    .em-breve {
+        top: 28.1%;
+        left: 3%;
+
+        font-size: 18px;
+        line-height: 14px;
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 460px;
+        height: 336px;
+        left: 52%;
+        top: 28.6%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 410px;
+        height: 40px;
+        left: 54%;
+        top: 35%;
+    
+        font-size: 13px;
+        line-height: 20px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 28.9%;
+        left: 68.4%;
+    
+        
+        font-size: 20px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 260px;
+        top: 84rem;
+    
+    }
+}
+
+@media (max-width: 1000px){
+    h1{
+        font-size: 48px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 46px;
+        height: 46px;
+        left: 260px;
+        top: 13rem;
+    }
+
+    p{
+        font-size: 26px;
+        top: 16.4rem;
+        line-height: 26px;
+    }
+    
+    .estrela001 {
+        width: 30px;
+        height: 30px;
+        left: 33.4rem;
+        top: 17.8rem;
+    
+    }
+
+    .gitHub-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 13rem;
+        top: 20rem;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .email-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 20rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .cv-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 27rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 100px;
+        font-size: 18px;
+    }
+
+    .button-sobre {
+        top: 1rem;
+        left: 37rem;
+
+        font-size: 18px;
+    }
+
+    .bola {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 87%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .bola02 {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 73%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .button-contato{
+        font-size: 18px;
+        left: 89.2%;
+    }
+
+    .star-main {
+        left: 46%;
+    }
+
+    .sou-main {
+        left: 0%;
+        top: 46rem;
+        text-align: center;
+        
+        font-size: 22px;
+    }
+
+    .img-main {
+        left: 29%;
+        top: 56rem;
+    }
+
+    .trabalhos-main {
+        left: 20%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 500px;
+        height: 400px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 398px;
+        left: 9%;
+        top: 34.7%;
+
+        font-size: 12px;
+        line-height: 14px;
+    
+    }
+    
+    .em-breve {
+        top: 28.1%;
+        left: 4%;
+
+        font-size: 18px;
+        line-height: 14px;
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 420px;
+        height: 336px;
+        left: 53.2%;
+        top: 28.6%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 400px;
+        height: 40px;
+        left: 55.2%;
+        top: 35%;
+    
+        font-size: 13px;
+        line-height: 18px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 28.9%;
+        left: 70%;
+    
+        
+        font-size: 20px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 220px;
+        top: 84rem;
+    
+    }
+
+    body {
+        position: relative;
+        width: 100%;
+        height: 4320px;
+        background: #000000;
+        border-radius: 0px 0px 150px 150px;
+    
+        padding: 0%;
+    }
+    
+    .linha-nav {
+        position: absolute;
+        width: 100%;
+        left: 0px;
+        top: 3.3rem;
+    
+        border: 1px solid #46494C;
+    }
+    
+    .inicio {
+        position: relative;
+        width: 100%;
+        height: 1150px;
+    
+        background: #f3f0cd;
+        border-radius: 0px 0px 10px 10px;
+    }
+}
+
+@media (max-width: 800px){
+    h1{
+        font-size: 48px;
+    }
+
+    .mao {
+        position: absolute;
+        width: 46px;
+        height: 46px;
+        left: 260px;
+        top: 13rem;
+    }
+
+    p{
+        font-size: 26px;
+        top: 16.4rem;
+        line-height: 26px;
+    }
+    
+    .estrela001 {
+        width: 30px;
+        height: 30px;
+        left: 33.4rem;
+        top: 17.8rem;
+    
+    }
+
+    .gitHub-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 13rem;
+        top: 20rem;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .email-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 20rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+        color: #004375;
+        cursor: pointer;
+    }
+    
+    .cv-button {
+        position: absolute;
+        width: 100px;
+        height: 3rem;
+        left: 27rem;
+        top: 20rem;
+    
+        font-family: 'Noto Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 0px;
+    
+        color: #004375;
+        cursor: pointer;
+        background: #C9EEE2;
+        border-radius: 12px;
+        border: none;
+    
+    }
+
+    .button-trabalhos {
+        top: 1rem;
+        right: 100px;
+        font-size: 18px;
+    }
+
+    .button-sobre {
+        top: 1rem;
+        left: 37rem;
+
+        font-size: 18px;
+    }
+
+    .bola {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 87%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .bola02 {
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 21px;
+        height: 20px;
+        top: 1rem;
+        left: 73%;
+        border-radius: 100%;
+    
+        border: 2px solid #f3f0cd;
+    }
+
+    .button-contato{
+        font-size: 18px;
+        left: 89.2%;
+    }
+
+    .star-main {
+        left: 46%;
+    }
+
+    .sou-main {
+        left: 0%;
+        top: 46rem;
+        text-align: center;
+        
+        font-size: 22px;
+    }
+
+    .img-main {
+        left: 29%;
+        top: 56rem;
+    }
+
+    .trabalhos-main {
+        left: 20%;
+        top: 27%;
+
+        font-size: 26px;
+
+    }
+
+    /* Cards */
+    .card01-ft {
+        width: 500px;
+        height: 400px;
+        left: 1%;
+        top: 27%;
+    }
+
+    .txt-card01 {
+        width: 398px;
+        left: 9%;
+        top: 34.7%;
+
+        font-size: 12px;
+        line-height: 14px;
+    
+    }
+    
+    .em-breve {
+        top: 28.1%;
+        left: 4%;
+
+        font-size: 18px;
+        line-height: 14px;
+    }
+    
+    /* Card 02 */
+
+    .card02-ft {
+        width: 420px;
+        height: 336px;
+        left: 53.2%;
+        top: 28.6%;
+    }
+    
+    .txt-card02 {
+        position: absolute;
+        width: 400px;
+        height: 40px;
+        left: 55.2%;
+        top: 35%;
+    
+        font-size: 13px;
+        line-height: 18px;
+    
+    }
+    
+    .SuperMario {
+        width: 210px;
+        height: 20px;
+        top: 28.9%;
+        left: 70%;
+    
+        
+        font-size: 20px;
+        line-height: 28px;
+
+    }
+
+    .fundo-main-spece {
+        position: absolute;
+        width: 100%;
+        height: 220px;
+        top: 84rem;
+    
+    }
+
+    body {
+        position: relative;
+        width: 100%;
+        height: 4320px;
+        background: #000000;
+        border-radius: 0px 0px 150px 150px;
+    
+        padding: 0%;
+    }
+    
+    .linha-nav {
+        position: absolute;
+        width: 100%;
+        left: 0px;
+        top: 3.3rem;
+    
+        border: 1px solid #46494C;
+    }
+    
+    .inicio {
+        position: relative;
+        width: 100%;
+        height: 1150px;
+    
+        background: #f3f0cd;
+        border-radius: 0px 0px 10px 10px;
+    }
+}
