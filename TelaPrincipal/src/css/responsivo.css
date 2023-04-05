@@ -1,0 +1,105 @@
+@media (max-width: 1920px) {
+    .sobre {
+        right: 10rem;
+        font-size: 16px;
+    }
+
+    .inform {
+        right: 12rem;
+        font-size: 16px;
+    }
+
+    .login {
+        font-size: 16px;
+    }
+
+    .cadastrar {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 1366px) {
+    
+    .cadastrar {
+        font-size: 14px;
+    }
+
+    .inform {
+        left: 46%;
+        top: 1.3rem;
+
+        font-size: 14px;
+    }
+
+    .sobre {
+        left: 70%;
+        right: 19rem;
+        top: 1.3rem;
+        bottom: 92.57%;
+
+        font-size: 14px;
+    }
+
+    .login {
+        right: 14%;
+        left: 78%;
+        font-size: 14px;
+    }
+
+    .linha {
+        left: 47.5%;
+    }
+
+    .titulo {
+        left: 43.9%;
+    }
+
+    .star {
+        top: 48rem;
+        left: 64%;
+    }
+
+    .star01-main {
+        top: 48rem;
+
+        left: 38.2%;
+    }
+
+    #card01-main .subtitulo-card1 {
+        width: 94%;
+        font-size: 14px;
+    }
+
+    #card01-main p {
+        left: 90.5%;
+        font-size: 14px;
+    }
+
+    .tela01 {
+        left: 68%;
+        height: 12%;
+        width: 28%;
+    }
+
+    .tela02 {
+        left: 4%;
+        height: 12%;
+        width: 28%;
+    }
+
+    .titulo-main {
+        top: 48rem;
+        font-size: 26px;
+        left: 42%;
+    }
+
+
+    #card01-main {
+        top: 54rem;
+    }
+
+    #card02-main .subtitulo-card2 {
+        width: 94%;
+        font-size: 14px;
+    }
+}

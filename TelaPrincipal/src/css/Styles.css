@@ -1,0 +1,409 @@
+body {
+    position: relative;
+    max-width: 1920px;
+    height: 4320px;
+    background: #000000;
+}
+
+.fundo {
+    position: relative;
+    width: 100%;
+    height: 18%;
+
+    background: linear-gradient(180deg, #09150A 67.19%, rgba(0, 0, 0, 0.8) 100%);
+    ;
+}
+
+.linha {
+    position: absolute;
+    width: 134.5px;
+    height: 13.81px;
+    top: 22rem;
+    left: 47.1%;
+
+}
+
+.titulo {
+    position: absolute;
+    width: 240px;
+    height: 90rem;
+    top: 22rem;
+    left: 44%;
+
+    font-family: 'Quando';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 85px;
+    text-align: center;
+
+    color: #FFF0BC;
+
+}
+
+.tela01 {
+    position: absolute;
+    width: 460px;
+    height: 620px;
+    top: 6rem;
+    left: 64%;
+}
+
+.tela02 {
+    position: absolute;
+    width: 460px;
+    height: 620px;
+    top: 6rem;
+    left: 4%;
+}
+
+.cabeçalho {
+    position: absolute;
+    left: 60.94%;
+    right: 31.35%;
+    top: 4.66%;
+    bottom: 92.66%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+#menu {
+
+    background: #09150A;
+    border-bottom: 1px solid #FFF0BC;
+}
+
+#menu ul {
+    max-width: 1920px;
+    height: 70px;
+    list-style: none;
+    padding: 0;
+    bottom: 87.81%;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+.cadastrar {
+    color: #FFFFFF;
+
+    font-family: 'Quando';
+    font-style: normal;
+    font-size: 12px;
+    line-height: 29px;
+
+    position: absolute;
+    right: 4.5rem;
+    top: 1.2rem;
+    padding: 3px 15px;
+    cursor: pointer;
+
+    border: none;
+    border-radius: 15px;
+
+    text-align: center;
+    background: #3A412E;
+    transition: 0.5s all ease-in-out;
+}
+
+.login {
+    color: #FFFFFF;
+
+    position: absolute;
+    right: 13rem;
+    top: 1.2rem;
+    padding: 1px 28px;
+    cursor: pointer;
+
+    border: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: #3A412E;
+
+    font-family: 'Quando';
+    font-style: normal;
+    font-size: 12px;
+    line-height: 29px;
+
+
+    text-align: center;
+    background-color: transparent;
+}
+
+.sobre {
+    color: #FFFFFF;
+
+    position: absolute;
+    left: 62rem;
+    top: 1.3rem;
+
+    font-family: 'Quando';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 29px;
+
+    text-align: center;
+}
+
+.inform {
+    color: #FFFFFF;
+
+    position: absolute;
+    left: 50rem;
+    top: 1.3rem;
+
+    font-family: 'Quando';
+    font-size: 12px;
+    line-height: 29px;
+
+    text-align: center;
+}
+
+.titulo-main {
+    position: absolute;
+    width: 100;
+    height: 36.12px;
+    left: 41%;
+
+    font-family: 'Quando';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+
+    color: #FFFFFF;
+}
+
+.star01-main {
+    position: absolute;
+    width: 43.5px;
+    height: 47.81px;
+    left: 37.5%;
+    border: 2px solid #FFFFFF;
+    border: none;
+}
+
+.star {
+    position: absolute;
+    width: 43.5px;
+    height: 47.81px;
+    left: 63%;
+
+    border: 2px solid #FFFFFF;
+    border: none;
+}
+
+#card01-main {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 46%;
+    height: 600px;
+    left: 3rem;
+    top: 22%;
+
+    border: 1px solid #FFFFFF;
+    border-radius: 40px;
+}
+
+#card01-main .img-card1 {
+    position: absolute;
+    width: 96%;
+    height: 60%;
+    top: 5%;
+    left: 2%;
+}
+
+#card01-main .titulo-card1 {
+    position: absolute;
+    width: 850px;
+	height: 51px;
+    left: 2%;
+    top: 66%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 51px;
+
+    color: #FFFFFF;
+
+}
+
+#card01-main .subtitulo-card1 {
+    position: absolute;
+    width: 807px;
+	height: 91px;
+    top: 74%;
+    left: 2%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+.ler {
+    position: absolute;
+    width: 80px;
+    height: 45px;
+    top: 31.7%;
+    left: 37.4%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #4E844D;
+}
+
+#card01-main .data {
+    position: absolute;
+    width: 161px;
+    height: 23.37px;
+    top: 88.8%;
+    left: 2%;
+
+    font-family: 'Quattrocento Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+
+    color: #838383;
+}
+
+#card01-main .hora {
+    position: absolute;
+    width: 161px;
+    height: 23.37px;
+    top: 92%;
+    left: 2%;
+
+    font-family: 'Quattrocento Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+
+    color: #838383;
+}
+
+#card02-main {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 46%;
+    height: 600px;
+    left: 43rem;
+    top: 20%;
+
+    border: 1px solid #FFFFFF;
+    border-radius: 40px;
+}
+
+#card02-main .img-card02 {
+    position: absolute;
+    width: 96%;
+    height: 60%;
+    top: 5%;
+    left: 2%;
+}
+
+#card02-main .titulo-card2 {
+    position: absolute;
+    width: 480px;
+    height: 45px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 22px;
+    top: 68%;
+    left: 2%;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+#card02-main .subtitulo-card2{
+    position: absolute;
+    width: 1380px;
+    height: 45px;
+    top: 74%;
+    left: 2%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+#card02-main p{
+    position: absolute;
+    width: 80px;
+    height: 45px;
+    top: 84%;
+    left: 73%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #4E844D;
+}
+
+#card02-main .data-card2{
+	position: absolute;
+	width: 246px;
+	height: 23px;
+	left: 2%;
+	top: 88.8%;
+
+	font-family: 'Quattrocento Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+
+	color: #838383;
+}
+
+#card02-main .hora-card2{
+	position: absolute;
+	width: 188px;
+	height: 23px;
+	left: 2%;
+	top: 92%;
+
+	font-family: 'Quattrocento Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+
+	color: #838383;
+}
